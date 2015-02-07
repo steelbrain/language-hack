@@ -6,13 +6,13 @@
     "atom": "*",
     "node": "*"
   },
-  "homepage": "http://atom.github.io/language-php",
+  "homepage": "https://github.com/steelbrain/language-hack",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-php.git"
+    "url": "https://github.com/steelbrain/language-hack.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-php/issues"
+    "url": "https://github.com/steelbrain/language-hack/issues"
   }
 }
