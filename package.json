@@ -1,6 +1,6 @@
 {
   "name": "language-hack",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "HackLang grammar for Atom Editor",
   "engines": {
     "atom": "*",
