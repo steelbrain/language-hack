@@ -25,13 +25,13 @@
             'beginCaptures':
               '0':
                 'name': 'punctuation.section.embedded.begin.php'
-            'contentName': 'source.php'
+            'contentName': 'source.hack'
             'end': '(\\?)>'
             'endCaptures':
               '0':
                 'name': 'punctuation.section.embedded.end.php'
               '1':
-                'name': 'source.php'
+                'name': 'source.hack'
             'name': 'meta.embedded.block.php'
             'patterns': [
               {
@@ -46,13 +46,13 @@
         'beginCaptures':
           '0':
             'name': 'punctuation.section.embedded.begin.php'
-        'contentName': 'source.php'
+        'contentName': 'source.hack'
         'end': '(\\?)>'
         'endCaptures':
           '0':
             'name': 'punctuation.section.embedded.end.php'
           '1':
-            'name': 'source.php'
+            'name': 'source.hack'
         'name': 'meta.embedded.block.php'
         'patterns': [
           {
@@ -74,23 +74,23 @@
           {
             'captures':
               '1':
-                'name': 'source.php'
+                'name': 'source.hack'
               '2':
                 'name': 'punctuation.section.embedded.end.php'
               '3':
-                'name': 'source.php'
+                'name': 'source.hack'
             'match': '\\G(\\s*)((\\?))(?=>)'
             'name': 'meta.special.empty-tag.php'
           }
           {
             'begin': '\\G'
-            'contentName': 'source.php'
+            'contentName': 'source.hack'
             'end': '(\\?)(?=>)'
             'endCaptures':
               '0':
                 'name': 'punctuation.section.embedded.end.php'
               '1':
-                'name': 'source.php'
+                'name': 'source.hack'
             'patterns': [
               {
                 'include': '#language'
