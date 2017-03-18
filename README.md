@@ -1,5 +1,7 @@
 # [HackLang][HackLang] Grammar for Atom Editor
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/steelbrain/language-hack.svg)](https://greenkeeper.io/)
+
 Originally cloned from [Atom's PHP Language Package][PHPLangPackage].
 
 Contributions are greatly appreciated. Please fork this repository and open a
